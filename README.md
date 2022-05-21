@@ -5,6 +5,7 @@ In questa repository troverete nelle [issues](https://github.com/UNICT-Quality-D
 Legenda:   
 ✅ = progetto già assegnato   
 ⬜️ = progetto da assegnare   
+🟨 = progetto con un solo studente interessato (fatevi avanti!)
 [2] = indica il numero di studenti previsto per il progetto descritto nella issue (min. 2, max. 4).  
 
 --- 
