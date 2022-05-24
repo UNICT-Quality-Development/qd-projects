@@ -31,4 +31,7 @@ Ogni progetto GitHub dovrà avere la seguente impostazione abilitata nella repos
 
 ![image](https://user-images.githubusercontent.com/519778/169588498-cfc6f518-b302-41ec-a205-0f76ee43a528.png)
 
-È possibile trovare questa impostazione seguendo il percorso **“Settings -> Branches”** all’interno della propria repository GitHub (sostituire "master" con "main").
+È possibile trovare questa impostazione seguendo il percorso **“Settings -> Branches -> add Rule”** all’interno della propria repository GitHub (sostituire "master" con "main").
+
+⚠️ ATTENZIONE ⚠️  
+Non è possibile applicare queste regole per le repository private create mediante free account (account non github-pro).
