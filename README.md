@@ -3,6 +3,7 @@
 In questa repository troverete nelle [issues](https://github.com/UNICT-Quality-Development/qd-projects-2022/issues) tutti i progetti presenti 
 
 Legenda:   
+🤝 = progetto già consegnato   
 ✅ = progetto già assegnato   
 ⬜️ = progetto da assegnare   
 🟨 = progetto con un solo studente interessato (fatevi avanti!).  
